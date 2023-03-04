@@ -1,5 +1,8 @@
 ### KNN算法
 
+#### 数据下载：
+-链接：https://pan.baidu.com/s/1efJTNrZpQfC1jtUXY-00Ag   提取码：5i95
+
 #### 1、手写KNN算法
 
 - 01_k近邻算法.py
